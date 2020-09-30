@@ -2,6 +2,7 @@ WhatsApp-Tracker
 ================
 
 - A tool that checks the last time online whether the user has enabled or disabled the last seen time.
+- Provides Real time and accurate data.
 
 ![WATracker](http://cl.ly/image/1P331F2S3q0b/watracker.png)
 
